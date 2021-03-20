@@ -413,6 +413,26 @@ nav .caret {
     margin: 0 5px;
 }
 
+.tittle
+{
+    margin-top: -15px;
+    font-size: 24px;
+    font-family: 'FontAwesome', Arial, Helvetica, sans-serif;
+}
+
+.tittle2
+{
+    font-size: 24px;
+    font-family: 'FontAwesome', Arial, Helvetica, sans-serif;
+}
+
+.citation
+{
+    font-size: 20px;
+    font-family: 'FontAwesome', Arial, Helvetica, sans-serif;
+}
+
+
 .dropdown-menu .dropdown-menu {
     top: -8px;
     left: 100%;
