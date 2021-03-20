@@ -432,6 +432,12 @@ nav .caret {
     font-family: 'FontAwesome', Arial, Helvetica, sans-serif;
 }
 
+.citationbloc
+{
+    max-width: 850px;
+    display: flex;
+    justify-content: center;
+}
 
 .dropdown-menu .dropdown-menu {
     top: -8px;
