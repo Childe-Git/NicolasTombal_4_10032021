@@ -680,6 +680,12 @@ a {
     color: rgba(0, 0, 0, 0.9)!important;
 }
 
+li
+{   
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
 .container {
     max-width: 1000px;
 }
